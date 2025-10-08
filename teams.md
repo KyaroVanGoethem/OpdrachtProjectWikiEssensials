@@ -7,6 +7,8 @@ Hier zijn alle 10 teams die op de grid staan in 2025.
 - Red Bull
 - Mclaren
 - Mercedes
+- Audi
+- Cadilac
 - Williams
 - Racing Bulls
 - Aston Martin
